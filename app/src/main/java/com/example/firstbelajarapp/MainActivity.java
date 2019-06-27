@@ -14,6 +14,8 @@ public class MainActivity extends AppCompatActivity {
 //    ImageView iconpicture;
 //    TextView labelcheck;
 
+//    Coba git
+
     ImageView applogo;
 
     @Override
