@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
         android:layout_marginTop="96dp"
-        android:text="Hi Welcome \n OnBoard"
+        android:text="Hi Welcome \n OnMy Git"
         android:textColor="@color/myBlueDark"
         android:textAlignment="center"
         android:lineSpacingExtra="8dp"
